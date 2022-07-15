@@ -5,7 +5,7 @@
 
 This is a code package is related to the follow scientific article:
 
-## Wang, Ke, Chan-Tong Lam, and Benjamin K. Ng, "[Positioning Information Based High-Speed Communications with Multiple RISs: Doppler Mitigation and Hardware Impairments](https://www.mdpi.com/2076-3417/12/14/7076/htm)," in _Applied Sciences_, 12, no. 14: 7076, 2022.
+## Wang, Ke, Chan-Tong Lam, and Benjamin K. Ng, "[Positioning Information Based High-Speed Communications with Multiple RISs: Doppler Mitigation and Hardware Impairments](https://www.mdpi.com/2076-3417/12/14/7076/htm)," in _Applied Sciences_, 12, no.14: 7076, 2022.
 
 ### This code package is licensed under the GPLv2 license. If you in any way use this code for research that results in publications, please cite the original article listed above.
 
