@@ -15,7 +15,7 @@ In this paper, we consider a multiple reconfigurable intelligent surface (RIS)-a
 
 ### Plot result
 
-<div align=center>![image](https://github.com/ken0225/Multi-RIS-Doppler-Mitigation-Hardware-Impairments/blob/main/plot_result.png)</div>
+![image](https://github.com/ken0225/Multi-RIS-Doppler-Mitigation-Hardware-Impairments/blob/main/plot_result.png)
 
 ### How to use this code?
 
