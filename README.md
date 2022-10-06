@@ -33,5 +33,5 @@ In this paper, we consider a multiple reconfigurable intelligent surface (RIS)-a
 
 ### How to use this code?
 
-Please run "main_different_phase_shift_set_SE.m" to obtain the Figure 3 of the paper. By modifying the parameters, other figures can be get easily.
+Please run "main_different_phase_shift_set_SE.m" to obtain the Figure 3 of the paper. By modifying the parameters, other figures can be obtained easily.
 
