@@ -37,7 +37,7 @@ Please run "main_different_phase_shift_set_SE.m" to obtain the Figure 3 of the p
 
 ### Related Papers
 
-You can also obtain the numerical results in the papers below using this repository. We also encourage you to cite [1] and [2].
+You can also obtain the numerical results of the papers below using this repository. We also encourage you to cite [1] and [2].
 
 [1] K. Wang, C. -T. Lam and B. K. Ng. "[Doppler Effect Mitigation using Reconfigurable Intelligent Surfaces with Hardware Impairments](https://ieeexplore.ieee.org/abstract/document/9681939)". In 2021 IEEE Globecom Workshops (GC Wkshps), pages 1–6, Dec. 2021.
 
