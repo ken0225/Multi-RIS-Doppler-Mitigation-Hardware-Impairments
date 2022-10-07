@@ -37,9 +37,9 @@ Please run "main_different_phase_shift_set_SE.m" to obtain the Figure 3 of the p
 
 ### Related Papers
 
-You can also obtain the numical results in the papers below using this repository. We also encourgae you cite [1] and [2].
+You can also obtain the numerical results in the papers below using this repository. We also encourage you to cite [1] and [2].
 
-[1] K. Wang, C. -T. Lam and B. K. Ng. Doppler Effect Mitigation using Reconfigurable Intelligent Surfaces with Hardware Impairments. In 2021 IEEE Globecom Workshops (GC Wkshps), pages 1–6, Dec. 2021.
+[1] K. Wang, C. -T. Lam and B. K. Ng. "[Doppler Effect Mitigation using Reconfigurable Intelligent Surfaces with Hardware Impairments](https://ieeexplore.ieee.org/abstract/document/9681939)". In 2021 IEEE Globecom Workshops (GC Wkshps), pages 1–6, Dec. 2021.
 
-[2] K. Wang, C. -T. Lam and B. K. Ng. IRS-aided Predictable High-Mobility Vehicular Communication with Doppler Effect Mitigation. In 2021 IEEE 93rd Vehicular Technology Conference (VTC2021-Spring), pages 1–6, Apr. 2021.
+[2] K. Wang, C. -T. Lam and B. K. Ng. "[IRS-aided Predictable High-Mobility Vehicular Communication with Doppler Effect Mitigation](https://ieeexplore.ieee.org/abstract/document/9448955)". In 2021 IEEE 93rd Vehicular Technology Conference (VTC2021-Spring), pages 1–6, Apr. 2021.
 
