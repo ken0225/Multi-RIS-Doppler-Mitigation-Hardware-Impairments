@@ -35,7 +35,7 @@ In this paper, we consider a multiple reconfigurable intelligent surface (RIS)-a
 
 Please run "main_different_phase_shift_set_SE.m" to obtain the Figure 3 of the paper. By modifying the parameters, other figures can be obtained easily.
 
-### Related Papers
+### Related papers
 
 You can also obtain the numerical results of the papers below using this repository. We also encourage you to cite [1] and [2].
 
