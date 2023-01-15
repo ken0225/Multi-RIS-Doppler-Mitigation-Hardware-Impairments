@@ -37,7 +37,7 @@ Please run "Figure_3.m" to obtain the Figure 3 of the paper. By modifying the pa
 
 ### Related papers
 
-You can also obtain the numerical results of the papers below using this repository. We also encourage you to cite [1] and [2].
+You can also obtain the numerical results of the papers below (i.e., [1] and [2]) using this repository. We encourage you to cite them.
 
 [1] K. Wang, C. -T. Lam and B. K. Ng. "[Doppler Effect Mitigation using Reconfigurable Intelligent Surfaces with Hardware Impairments](https://ieeexplore.ieee.org/abstract/document/9681939)". In 2021 IEEE Globecom Workshops (GC Wkshps), pages 1–6, Dec. 2021.
 
