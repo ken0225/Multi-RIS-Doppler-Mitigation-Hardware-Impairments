@@ -29,7 +29,7 @@ In this paper, we consider a multiple reconfigurable intelligent surface (RIS)-a
 
 ### Result 
 
-![image](https://github.com/ken0225/Multi-RIS-Doppler-Mitigation-Hardware-Impairments/blob/main/plot_result.png)
+![image](plot_result.png)
 
 ### How to use this code?
 
