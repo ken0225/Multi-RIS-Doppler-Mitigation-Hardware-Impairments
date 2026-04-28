@@ -1,7 +1,9 @@
 
 ### Disclaimer
 
-The simulation code is licensed under the GPLv2 license and is delivered as it is. The authors encourage you to reuse the code in your research, but we cannot give any support. The readme file contains the instructions on how to run the code. As soon as you edit the code, you are on your own. My GitHub page is the only way that we are sharing simulation code, so there is no need to send us emails and ask for code related to other papers. The code is either openly available for everyone or it is not available at all.
+_The simulation code is licensed under the GPLv3 license and is delivered as it is. The authors encourage you to reuse the code in your research, but we cannot give any support. The readme file contains the instructions on how to run the code. As soon as you edit the code, you are on your own. My GitHub page is the only way that we are sharing simulation code, so there is no need to send us emails and ask for code related to other papers. The code is either openly available for everyone or it is not available at all._
+
+_If you use any code in this repository for research that results in a publication, please cite the original article listed above. I also recommend explicitly stating in your manuscript that you used this code package, both to help disseminate it and to avoid any potential concerns about plagiarism during peer review. This code package is licensed under the GPLv3. Under this license, if you download and run the code on your computer, you acknowledge that you assume responsibility for it; therefore, I will not provide support or answer questions about the code. In addition, if your research or publication incorporates this code, you are required to release your related work as open source in accordance with the GPLv3._
 
 ### This code package is licensed under the GPLv2 license. If you in any way use this code for research that results in publications, please cite the original article listed above.
 
