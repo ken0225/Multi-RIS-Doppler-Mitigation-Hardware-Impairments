@@ -5,7 +5,7 @@ _The simulation code is licensed under the GPLv3 license and is delivered as it 
 
 _If you use any code in this repository for research that results in a publication, please cite the original article. I also recommend explicitly stating in your manuscript that you used this code package, both to help disseminate it and to avoid any potential concerns about plagiarism during peer review. This code package is licensed under the GPLv3. Under this license, if you download and run the code on your computer, you acknowledge that you assume responsibility for it; therefore, I will not provide support or answer questions about the code. In addition, if your research or publication incorporates this code, you are required to release your related work as open source in accordance with the GPLv3._
 
-### This code package is licensed under the GPLv2 license. If you in any way use this code for research that results in publications, please cite the original article listed above.
+### This code package is licensed under the GPLv3 license. If you in any way use this code for research that results in publications, please cite the original article listed above.
 
 ```
 @article{wang2022rispi,
